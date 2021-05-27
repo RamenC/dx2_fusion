@@ -1,2 +1,5 @@
 node_modules/
 mix-manifest.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/dx2_fusion/v16/.suo

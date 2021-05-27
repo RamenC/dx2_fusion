@@ -7395,4 +7395,39 @@ export default [
 			}
 		]
 	}
+	{
+		"name": "Wood",
+		"names": {
+			"ja": "Wood",
+			"tw": "Wood",
+			"en": "Wppd"
+		},
+		"fusion": true,
+		"highlight": false,
+		"formulas": [["女神","龍王"],["兇鳥","妖魔"],["兇鳥","妖精"],["幽鬼","龍王"], ["幽鬼", "妖精"],["妖獸","地靈"],["妖獸","妖精"],["邪龍","妖精"],["兇鳥","鬼女"],["兇鳥","夜魔"]],
+		"devils": [
+			{
+				"id": "",
+				"name": "Wood",
+				"names": {
+					"ja": "Wood",
+					"tw": "Wood",
+					"en": "Wood"
+				},
+				"rarity": 5,
+				"grade": 80,
+				"icon": "masin_tatikoma.jpg",
+				"skills": [],
+				"skill4": [],
+				"skill5": [],
+				"elements": ["","","","","","",""],
+				"type": "attack",
+				"fusion": true,
+				"fusionAsMaterial": true,
+				"formula": [],
+				"fusionMag": 0,
+				"source": "summon"
+			}
+		]
+	}
 ]
